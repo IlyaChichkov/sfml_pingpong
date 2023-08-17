@@ -1,0 +1,5 @@
+*.d
+*/*.d
+/cmake-build-debug
+/debug
+/.idea
